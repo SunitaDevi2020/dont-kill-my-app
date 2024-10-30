@@ -1,4 +1,4 @@
----
+--not supportable -
 manufacturer:
     - general
 ---
